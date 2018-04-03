@@ -1,0 +1,5 @@
+//Game Description 
+
+    //The purpose of the game is to click the alien in the center of its body (the rectangle) and it will speed up and increase youre score. 
+    //If you click the screen and miss the body, you will lose a life. 
+    //When you have run out of lives, you can click the screen and restart. 
